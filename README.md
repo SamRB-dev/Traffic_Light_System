@@ -10,6 +10,8 @@ Traffic light system using arduino and C++ on tinkercad
 # Machine State Diagram
 ![machine diagram](https://raw.githubusercontent.com/SamRB-dev/Traffic_Light_System/refs/heads/lab2/diagrams/machine_state_diagram.drawio.svg)
 
+# Image
+
 
 # References
 1. [Arduino Documentation: Delay()](https://docs.arduino.cc/language-reference/en/functions/time/delay/)
