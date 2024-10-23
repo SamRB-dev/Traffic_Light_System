@@ -73,7 +73,7 @@ void loop()
   int buttonState = digitalRead(light.dPushButton);
   // Button Pressed
   if (buttonState == HIGH)
-    light.interval_1 = 500;
+    light.interval_1 = 100;
   else
     light.interval_1 = 1000;
   unsigned long currentTime = millis();
