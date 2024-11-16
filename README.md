@@ -8,7 +8,7 @@ Traffic light system using arduino and C++ on tinkercad
 ![class diagram](https://raw.githubusercontent.com/SamRB-dev/Traffic_Light_System/refs/heads/lab2/diagrams/ClassDiagram.drawio.svg)
 
 # Machine State Diagram
-![machine diagram](https://raw.githubusercontent.com/SamRB-dev/Traffic_Light_System/refs/heads/lab2/diagrams/machine_state_diagram.drawio.svg)
+![State diagram](https://raw.githubusercontent.com/SamRB-dev/Traffic_Light_System/refs/heads/task5/diagrams/Traffic_Light_System_v2.0.png)
 
 
 # References
