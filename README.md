@@ -14,3 +14,4 @@ Traffic light system using arduino and C++ on tinkercad
 # References
 1. [Arduino Documentation: Delay()](https://docs.arduino.cc/language-reference/en/functions/time/delay/)
 2. [Arduino Documentation: How to wire and program a pushbutton](https://docs.arduino.cc/built-in-examples/digital/Button/)
+3. [Arduino Documentation: UART communication](https://docs.arduino.cc/learn/communication/uart/)
