@@ -21,7 +21,7 @@ Traffic light system using arduino and C++ on tinkercad and hardware implementat
 
 # Machine State Diagram
 1. Task 1-2
-![State diagram](https://raw.githubusercontent.com/SamRB-dev/Traffic_Light_System/refs/heads/task5/diagrams/state_diagram_v1.0.jpg)
+![State diagram](https://raw.githubusercontent.com/SamRB-dev/Traffic_Light_System/refs/heads/task5/diagrams/state_diagram_v1.0.png)
 ##### ToDo
 2. Task 3-5
 ![State diagram](https://raw.githubusercontent.com/SamRB-dev/Traffic_Light_System/refs/heads/task5/diagrams/Traffic_Light_System_v2.0.png)
