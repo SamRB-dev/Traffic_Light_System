@@ -1,4 +1,5 @@
 # Traffic_Light_System
+Git repo: https://github.com/SamRB-dev/Traffic_Light_System
 Traffic light system using arduino and C++ on tinkercad and hardware implementation on labs.
 
 # Circuits
