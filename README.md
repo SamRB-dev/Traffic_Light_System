@@ -8,6 +8,8 @@ Traffic light system using arduino and C++ on tinkercad and hardware implementat
 ![Task 3,4](https://raw.githubusercontent.com/SamRB-dev/Traffic_Light_System/refs/heads/task5/images/Traffic%20Light%20System_v2.0.png)
 3. Task 5
 ![Task 5](https://raw.githubusercontent.com/SamRB-dev/Traffic_Light_System/refs/heads/task5/images/Traffic%20Light%20System%20v3.0.png)
+4. Task 6
+![Task 6](https://raw.githubusercontent.com/SamRB-dev/Traffic_Light_System/refs/heads/task5/Task6/TLS%20t6.png)
 
 # Class Diagram
 1. Task 1-2 <br>
@@ -30,6 +32,7 @@ Traffic light system using arduino and C++ on tinkercad and hardware implementat
 1. Task 1-2 [code](https://github.com/SamRB-dev/Traffic_Light_System/tree/task5/v1_src)
 2. Task 3-4 [code](https://github.com/SamRB-dev/Traffic_Light_System/tree/task5/v2_src)
 3. Task 5 [code](https://github.com/SamRB-dev/Traffic_Light_System/tree/task5/v3_src)
+4. Task 6 [code](https://github.com/SamRB-dev/Traffic_Light_System/tree/task5/Task6)
 
 # References
 1. [Arduino Documentation: Delay()](https://docs.arduino.cc/language-reference/en/functions/time/delay/)
